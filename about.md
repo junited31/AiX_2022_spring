@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hanyang University ERICA, Applied physics
 
 ### More Information
 
